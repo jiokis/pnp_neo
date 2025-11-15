@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a1939ce-6140-45e7-989f-00fe95c6da9b" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pnp_neo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/base_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/data_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/train_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dataloader/data_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dataloader/mixed_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/real/data_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/real/format_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/real/preprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/synthetic/augment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/synthetic/data_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/auxiliary/depth_calib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/auxiliary/multi_scale_fusion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/backbone/appearance_branch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/backbone/geom_branch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/full_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/head/anchor_head.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/head/depth_reg_head.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/lora/lora_adaptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/lora/lora_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/transformer/so3_rot_inv_transformer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/convert_checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train/loss_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train/stage2_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_validate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/eval_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/gpu_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/log_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/pyramid_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/visual_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/stage1_pretrain.pth" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="35TGFfM28wqVOK9Z0un5d9YkKqa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.appearance_branch.executor": "Run",
+    "Python.data_generator.executor": "Run",
+    "Python.depth_reg_head.executor": "Run",
+    "Python.train_validate.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/20528/Desktop/newdata/pnp_neo/weights",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\20528\Desktop\newdata\pnp_neo\weights" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="appearance_branch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pnp_neo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model/backbone" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/backbone/appearance_branch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.appearance_branch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8a1939ce-6140-45e7-989f-00fe95c6da9b" name="更改" comment="" />
+      <created>1763126545909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763126545909</updated>
+    </task>
+    <servers />
+  </component>
+</project>
